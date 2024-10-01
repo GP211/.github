@@ -17,7 +17,7 @@
 # Class notebooks
 
   - [2023 fall class notebooks](https://github.com/GP211/2023-fall-class-notebooks)
-)
+
 
   - [2023 Spring class notebooks](https://github.com/GP211/2023Spring-class-notebooks)
 
